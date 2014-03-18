@@ -1,7 +1,7 @@
 #What is Chocolatey?
 
 Chocolatey is a **package installer** that allows a windows system to install packages 
-much like linux does. This is very helpful because the task of isntalling software for a programmer or any user for that matter can become very convoluted
+much like linux does. This is very helpful because the task of installing software for a programmer or any user for that matter can become very convoluted
 
 Some more intricate programs require that dependencies be installed on your system before the required program is installed. This is where package installers really shine. *All* dependencies of the required prgoram are found and installed by the package installer without the need for input from the user. This will save you *alot* of time.
 
