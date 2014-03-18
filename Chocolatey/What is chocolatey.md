@@ -13,6 +13,7 @@ Now that we know what a package manager is we shall install chocolatey for windo
 
 1. Open a command prompt window as an administrator
 2. Copy the following text as is into the window:
+
 	>@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%systemdrive%\chocolatey\bin
 3. Enjoy the Chocolatey goodness!!
 
@@ -23,17 +24,20 @@ The script that was run also puts chocolatey in the PATH variables so now you ca
 
 2 Basic commands you will need to know:
 
-+cinst - This will install whatever package you specified
+*cinst - This will install whatever package you specified
 
-+cuninst - This will uninstall a specified package
+*cuninst - This will uninstall a specified package
 
 Example
 --------
 >Let's say you've all of a sudden gotten a interest in big data and you want to go ahead and start using a noSQL database. The one that you've heard is very good is called MongoDB but you have no idea how to install the correct version even after going onto the website because the isntructions are so convuluted. Incoming Chocolatey goodness to the rescue.
 
-**This is quite a conundrum let's solve it using Chocolatey**
+**This is quite a conundrum let's solve it using Chocolatey** 
+
 1. Open a command prompt window
+
 2. cinst mongodb
+
 3. now you have mongo 
 
 Notes
