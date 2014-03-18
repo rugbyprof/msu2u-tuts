@@ -24,9 +24,9 @@ The script that was run also puts chocolatey in the PATH variables so now you ca
 
 2 Basic commands you will need to know:
 
-*cinst - This will install whatever package you specified
+* cinst - This will install whatever package you specified
 
-*cuninst - This will uninstall a specified package
+* cuninst - This will uninstall a specified package
 
 Example
 --------
