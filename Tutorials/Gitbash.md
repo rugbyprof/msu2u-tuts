@@ -10,4 +10,4 @@ Git is a distributed version control system. Version control of software is a me
 ####Installing Git 
 Here we are going to use the package installer Choclatey to install Git and all its dependencies. This will ensure that Git runs on your computer and is added to the path variable, and is easily accessible anywhere in your computer as the image below shows:
 
-![alt text](https://github.com/rugbyprof/msu2u-tuts/Images/Gitbash1.png "Git in Windows")
+![alt text](https://github.com/rugbyprof/msu2u-tuts/blob/master/Images/Gitbash1.png "Git in Windows")
